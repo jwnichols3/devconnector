@@ -7,7 +7,7 @@ This is a MERN stack application from the "MERN Stack Front To Back" course on [
 ## Quick Start
 
 ```
-# change default.json file in config folder
+# change default.json file in cofig folder
 
 # this file is located in config/default.json
 
@@ -25,9 +25,6 @@ npm install
 cd client
 npm install
 
-# Run just the Server from root
-npm run server
-
 # Run both Express & React from root
 npm run dev
 
@@ -35,6 +32,17 @@ npm run dev
 cd client
 npm run build
 ```
+
+## App Info
+
+### Author
+
+Brad Traversy
+[Traversy Media](http://www.traversymedia.com)
+
+### Version
+
+2.0.0
 
 ### License
 
